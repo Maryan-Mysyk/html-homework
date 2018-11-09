@@ -1,0 +1,252 @@
+header {
+    height: 150px;
+    width: 860px;
+    margin-left: 18px;
+}
+.advertisement, .advertisement2 {
+    height: 150px;
+    width: 200px;
+    background-color: #f3f3f5;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 150px;
+    float: left;
+    text-transform: uppercase;
+ 
+}
+.advertisement2 {
+    margin-left: 18px;
+}
+.imd {
+    height: 150px;
+    width: 418px;
+    float: left;
+    margin-left: 18px;
+}
+.imdb {
+    height: 100px;
+    width: 418px;
+    background-color: #f3f3f5;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid black;
+}
+.imdbBox, .imdbPro, .imdbResume {
+    height: 41px;
+    width: 132px;
+    background-color: #a8a9ad;
+    border: 1px solid black;
+    float: left;
+    margin-top: 7px;
+    text-align: center;
+    line-height: 41px;
+}
+.imdbBox, .imdbPro {
+    margin-right: 7px;
+}
+.menu {
+    background-color:#a8a9ad; 
+    margin-left: 18px;
+    width: 864px;
+}
+.menu ul {
+    height: 50px;
+    width: 860px;
+    margin-top: 18px;
+    padding: 0px 0px;
+}
+.menu li {
+    display: inline-block;
+    text-transform: uppercase;
+    border: 1px solid black;
+    height: 50px;
+    margin-top: 0px;
+    position: relative;
+    padding: 0 59px;
+    border: 1px solid black;
+    background-color: #a8a9ad;
+    margin: 0;
+}
+.menu a {
+    text-decoration: none;
+    line-height: 50px;
+}
+
+
+.input {
+    height: 70px;
+    width: 864px;
+    background-color: #d1d2d4;
+    margin-top: 18px;
+    border: 1px solid black;
+    margin-left: 18px;
+}
+.main {
+    height: 500px;
+    width: auto;
+}
+#search {
+    height: 50px;
+    width: 100px;
+    font-size: 25px;
+    float: left;
+    padding-top: 8px;
+    padding-left: 20px;
+    
+}
+#searchBox {
+    float: left;
+    margin-top: 10px;
+    font-size: 25px;
+    height: 60px;
+    width: 490px;
+}
+#searchBoxInput {
+    display: block;
+    height: 40px;
+    width: 400px;
+    float: left;
+}
+#go {
+    display: block;
+    height: 40px;
+    width: 60px;
+    float: left;
+    margin-left: 10px;
+}
+#advSearch {
+    height: 30px;
+    margin-top: 30px;
+    float: left;
+}
+
+
+#videoSpotlight {
+    background-color: #d1d2d4;
+    border: 1px solid black;
+    width: 120px;
+    text-align: center;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+
+#mainTop {
+    height: 200px;
+    width: 864px;
+    border: 1px solid grey;
+    margin-left: 18px;
+}
+#mainMidl {
+    height: 400px;
+    width: 900px;
+    margin-top: 18px;
+}
+#mainBottom {
+    height: 200px;
+    width: 900px;
+}
+.mainTopMovies, .mainTopTv, .mainTopDvd, .mainTopNews {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: #f3f3f5;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+} 
+.mainTopMovies, .mainTopTv, .mainTopDvd {
+    margin-right: 18px;
+}
+//.mainTopMovies {
+    margin-left: 18px;
+}
+.mainMidlLeftTop {
+    height: 200px;
+    width: 200px;
+    background-color: #d1d2d4;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    border: 1px solid black;
+}
+.mainMidlLeftBottom {
+    height: 200px;
+    width: 200px;
+    background-color: #d1d2d4;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+    border: 1px solid black;
+    
+}
+.mainMidlCenter {
+    height: 418px;
+    width: 418px;
+    background-color: #d1d2d4;
+    text-align: center;
+    line-height: 418px;
+    margin-left: 18px;
+    border: 1px solid black;
+    float: left;
+}
+.mainMidlLeft, .mainMidlRight {
+    float: left;
+}
+.mainMidlRightTop {
+    height: 200px;
+    width: 200px;
+    background-color: #f3f3f5;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    border: 1px solid black;
+}
+.mainMidlRightBottom {
+    height: 200px;
+    width: 200px;
+    background-color: #d1d2d4;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+    border: 1px solid black;
+}
+.mainBottomLeft {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: #d1d2d4;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.mainBottomCenter {
+    height: 200px;
+    width: 418px;
+    border: 1px solid black;
+    background-color: #f3f3f5;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.mainBottomRight {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: #d1d2d4;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.mainBottom {
+    margin-top: 18px;
+}
+
+
